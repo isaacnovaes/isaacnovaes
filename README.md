@@ -33,7 +33,7 @@
 </h2>
 
 <h2 align='center'>
-I'm a passionate... blablabla, it is useles 😀
+I'm a passionate... blablabla, it is vague and useles 😀
 </h2>
 
 - 🌱 I’m currently learning JavaScript 
