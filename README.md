@@ -1,16 +1,67 @@
-### Hi there 👋
+<h1 align='center'>
+  Hi there 👋 I'm Isaac, a front end developer 👨‍💻
+</h1>
 
-<!--
-**isaacnovaes/isaacnovaes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align='center'>
+  
+  <a href="https://www.linkedin.com/in/USERNAME/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>&nbsp;&nbsp;
+  <a href="https://instagram.com/USERNAME">
+    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
+  </a>&nbsp;&nbsp;
+  
+</p>
 
-Here are some ideas to get you started:
+<p align='center'>
+  <a href="#"><img src="https://github-readme-stats-gamma-azure.vercel.app/api?username=isaacnovaes&show_icons=true&hide_border=true&theme=radical" width="350"></a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2 align='center'>
+
+   Languages and Tools
+
+<p align='center'>
+  <img align='center' alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+  <img align='center' alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+  <img align='center' alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+  <img align='center' alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+  <img align='center' alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
+  <img align='center' alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+  <!--
+  [<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />]
+  FOR THE FUTURE! -->
+</p>
+
+</h2>
+
+<h2 align='center'>
+I'm a passionate... blablabla, it is useles 😀
+</h2>
+
+- 🌱 I’m currently learning JavaScript 
+- 🥅 2021 Goal: Start using React on my projects!
+- ⚡ Fun fact: I'm learning the Polish language
+
+<p align='center'>
+  📫 How to reach me: <a href='mailto:isaac.novaes@hotmail.com'>isaac.novaes@hotmail.com</a>
+</p>
+
+<br>
+
+<p align='center'>
+  <a href="#"> <img src="https://profile-counter.glitch.me/isaacnovaes/count.svg" /> </a>   
+</p>
+
+<p align='center'>
+  Curious people have come here 😏  
+</p>
+
+<p align='center'>
+  Thank you! But bring a coke next time 😀  
+</p>
+
+
+
+
+
