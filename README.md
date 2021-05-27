@@ -32,9 +32,9 @@
 
 </h2>
 
-<h2 align='center'>
-I'm a passionate... blablabla, it is vague and useles 😀
-</h2>
+
+### In short
+
 
 - 🌱 I’m currently learning JavaScript 
 - 🥅 2021 Goal: Start using React on my projects!
