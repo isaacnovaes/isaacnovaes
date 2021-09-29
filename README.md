@@ -44,19 +44,7 @@
   📫 How to reach me: <a href='mailto:isaac.novaes@hotmail.com'>isaac.novaes@hotmail.com</a>
 </p>
 
-<br>
 
-<p align='center'>
-  <a href="#"> <img src="https://profile-counter.glitch.me/isaacnovaes/count.svg" /> </a>   
-</p>
-
-<p align='center'>
-  Curious people have come here 😏  
-</p>
-
-<p align='center'>
-  Thank you! But bring a coke next time 😀  
-</p>
 
 
 
