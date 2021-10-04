@@ -2,19 +2,8 @@
   Hi there 👋 I'm Isaac, a front end developer 👨‍💻
 </h1>
 
-<p align='center'>
-  
- <a href="https://www.linkedin.com/in/isaac-novaes-083b041b4">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  
-</p>
 
-<p align='center'>
-  <a href="#"><img src="https://github-readme-stats-gamma-azure.vercel.app/api?username=isaacnovaes&show_icons=true&hide_border=true&theme=radical" width="350"></a>
-</p>
-
-<h2 align='center'>
+<h3 align='center'>
 
    Languages and Tools
 
@@ -30,7 +19,7 @@
   FOR THE FUTURE! -->
 </p>
 
-</h2>
+</h3>
 
 
 ### In short
@@ -44,7 +33,13 @@
   📫 How to reach me: <a href='mailto:isaac.novaes@hotmail.com'>isaac.novaes@hotmail.com</a>
 </p>
 
-
+<p align='center'>
+  
+ <a href="https://www.linkedin.com/in/isaac-novaes-083b041b4">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  
+</p>
 
 
 
