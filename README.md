@@ -27,7 +27,7 @@
 
 
 - 🌱 I’m currently learning React 
-<!-- - 🥅 2021 Goal: Start using React on my projects! -->
+- 🥅 2022 Goal: Learn Node.js, Express.js, and data bases!
 - ⚡ Fun fact: I'm learning the Polish language
 
 <p align='center'>
@@ -41,8 +41,3 @@
   </a>
   
 </p>
-
-
-
-
-
