@@ -1,5 +1,5 @@
 <h1 align='center'>
-  Hi there 👋 I'm Isaac, a front end developer 👨‍💻
+  Hi there 👋 I'm Isaac, a frontend developer 👨‍💻
 </h1>
 
 
