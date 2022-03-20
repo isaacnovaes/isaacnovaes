@@ -22,7 +22,7 @@
 
 ### In short
 
-- 🌱 I’m currently learning React 
+- 🌱 I’m currently learning TypeScript
 - 🥅 2022 Goal: Learn Node.js, Express.js, and data bases!
 - ⚡ Fun fact: I'm learning the Polish language
 
