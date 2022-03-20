@@ -18,6 +18,7 @@
   <img align='center' alt="Parcel" width="26px" src="https://github.com/isaacnovaes/isaacnovaes/blob/main/parcel-icon.svg" />
   <img align="center" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />  
   <img align="center" alt="Redux" width="26px" src="https://github.com/isaacnovaes/isaacnovaes/blob/main/redux-icon.svg" />  
+  <img align="center" alt="TypeScript" width="26px" src="https://github.com/isaacnovaes/isaacnovaes/blob/main/typescript-icon.svg" />  
 </p>
 
 ### In short
