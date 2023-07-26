@@ -18,7 +18,7 @@
 
 ### In short
 
-- 🌱 I’m currently improving mmy React knowledge
+- 🌱 I’m currently improving my React knowledge
 - 🥅 2023 Goal: Learn Node.js, Express.js, and data bases!
 - ⚡ Fun fact: I'm learning the Polish language
 
