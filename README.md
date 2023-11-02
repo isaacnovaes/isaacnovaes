@@ -20,7 +20,6 @@
 
 - 🌱 I’m currently improving my React knowledge
 - 🥅 2023 Goal: Learn Node.js, Express.js, and data bases!
-- ⚡ Fun fact: I'm learning the Polish language
 
 <p align='center'>
   <a href="https://www.linkedin.com/in/isaac-novaes-083b041b4">
