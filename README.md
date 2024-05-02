@@ -15,11 +15,11 @@
   <img align="center" alt="Git" width="26px" src="https://github.com/isaacnovaes/isaacnovaes/blob/main/git-icon.svg"/>
   <img align="center" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"/> 
   <img align="center" alt="Redux" width="26px" src="https://github.com/isaacnovaes/isaacnovaes/blob/main/redux-icon.svg"/>  
-  <img align="center" alt="React testing library" width="26px" src="https://github.com/isaacnovaes/isaacnovaes/blob/main/react-testing-library-icon.svg"/>
+  <img align="center" alt="React testing library" width="26px" src="https://github.com/isaacnovaes/isaacnovaes/blob/main/react-testing-library.svg"/>
   <img align="center" alt="Framer motion" width="26px" src="https://github.com/isaacnovaes/isaacnovaes/blob/main/framer-icon.svg"/>  
   <img align="center" alt="TypeScript" width="26px" src="https://github.com/isaacnovaes/isaacnovaes/blob/main/typescript-icon.svg"/>  
-  <img align="center" alt="Angular" width="26px" src="https://github.com/isaacnovaes/isaacnovaes/blob/main/angular-icon.svg"/>
-  <img align="center" alt="RxJs" width="26px" src="https://github.com/isaacnovaes/isaacnovaes/blob/main/rxjs-icon.svg"/>
+  <img align="center" alt="Angular" width="26px" src="https://github.com/isaacnovaes/isaacnovaes/blob/main/angula.svg"/>
+  <img align="center" alt="RxJs" width="26px" src="https://github.com/isaacnovaes/isaacnovaes/blob/main/rxjs.svg"/>
 </p>
 
 ### In short
@@ -29,6 +29,9 @@
 
 <p align='center'>
   <a href="https://www.linkedin.com/in/isaac-novaes-083b041b4">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style![angular](https://github.com/isaacnovaes/isaacnovaes/assets/83700665/da07863a-eced-4137-aaa8-831f0e04bc83)
+=for-the-badge&logo=linkedin&logoColor=white" />![rxjs](https://github.com/isaacnovaes/isaacnovaes/assets/83700665/abf86cf6-09bc-42be-8225-f6a2190c0e73)
+
   </a>
 </p>
+
