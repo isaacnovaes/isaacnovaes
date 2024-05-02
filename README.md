@@ -29,9 +29,7 @@
 
 <p align='center'>
   <a href="https://www.linkedin.com/in/isaac-novaes-083b041b4">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style![angular](https://github.com/isaacnovaes/isaacnovaes/assets/83700665/da07863a-eced-4137-aaa8-831f0e04bc83)
-=for-the-badge&logo=linkedin&logoColor=white" />![rxjs](https://github.com/isaacnovaes/isaacnovaes/assets/83700665/abf86cf6-09bc-42be-8225-f6a2190c0e73)
-
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
