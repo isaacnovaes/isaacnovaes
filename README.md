@@ -18,7 +18,7 @@
   <img align="center" alt="React testing library" width="26px" src="https://github.com/isaacnovaes/isaacnovaes/blob/main/react-testing-library.svg"/>
   <img align="center" alt="Framer motion" width="26px" src="https://github.com/isaacnovaes/isaacnovaes/blob/main/framer-icon.svg"/>  
   <img align="center" alt="TypeScript" width="26px" src="https://github.com/isaacnovaes/isaacnovaes/blob/main/typescript-icon.svg"/>  
-  <img align="center" alt="Angular" width="26px" src="https://github.com/isaacnovaes/isaacnovaes/blob/main/angula.svg"/>
+  <img align="center" alt="Angular" width="26px" src="https://github.com/isaacnovaes/isaacnovaes/blob/main/angular.svg"/>
   <img align="center" alt="RxJs" width="26px" src="https://github.com/isaacnovaes/isaacnovaes/blob/main/rxjs.svg"/>
 </p>
 
