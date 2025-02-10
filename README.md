@@ -22,14 +22,3 @@
 - RxJs <img align="center" alt="RxJs" width="26px" src="https://github.com/isaacnovaes/isaacnovaes/blob/main/rxjs.svg"/>
 - Linux <img align="center" alt="Linux" width="26px" src="https://github.com/isaacnovaes/isaacnovaes/blob/main/linux-icon.svg"/>
 
-### In short
-
-- 🌱 I’m currently learning Java
-- 🥅 2024 Goal: Learn Java and backend tech!
-
-<p align='center'>
-  <a href="https://www.linkedin.com/in/isaac-novaes-083b041b4">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
-
