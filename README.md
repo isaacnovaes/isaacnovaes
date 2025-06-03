@@ -10,6 +10,7 @@
 - HTML <img align='center' alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 - CSS <img align='center' alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"/>
 - SASS <img align='center' alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"/>
+- TailwindCSS <img align='center' alt="Sass" width="26px" src="https://github.com/user-attachments/assets/9a530ef7-7666-4c74-9ff3-ea38a509af52"/>
 - JavaScript <img align="center" alt="JavaScript" width="26px" src="https://github.com/isaacnovaes/isaacnovaes/blob/main/javascript-icon.svg"/>
 - Git <img align="center" alt="Git" width="26px" src="https://github.com/isaacnovaes/isaacnovaes/blob/main/git-icon.svg"/>
 - React <img align="center" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"/>
@@ -21,4 +22,5 @@
 - Angular <img align="center" alt="Angular" width="26px" src="https://github.com/isaacnovaes/isaacnovaes/blob/main/angular.svg"/>
 - RxJs <img align="center" alt="RxJs" width="26px" src="https://github.com/isaacnovaes/isaacnovaes/blob/main/rxjs.svg"/>
 - Linux <img align="center" alt="Linux" width="26px" src="https://github.com/isaacnovaes/isaacnovaes/blob/main/linux-icon.svg"/>
+
 
