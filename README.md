@@ -24,3 +24,4 @@
 - Linux <img align="center" alt="Linux" width="26px" src="https://github.com/isaacnovaes/isaacnovaes/blob/main/linux-icon.svg"/>
 
 
+Portfolio: https://isaac-novaes-portfolio.netlify.app/
