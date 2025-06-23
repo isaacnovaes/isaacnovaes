@@ -23,5 +23,6 @@
 - RxJs <img align="center" alt="RxJs" width="26px" src="https://github.com/isaacnovaes/isaacnovaes/blob/main/rxjs.svg"/>
 - Linux <img align="center" alt="Linux" width="26px" src="https://github.com/isaacnovaes/isaacnovaes/blob/main/linux-icon.svg"/>
 
+Linkedin: https://isaac-novaes-portfolio.netlify.app/
 
 Portfolio: https://isaac-novaes-portfolio.netlify.app/
