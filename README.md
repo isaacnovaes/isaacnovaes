@@ -23,6 +23,8 @@
 - RxJs <img align="center" alt="RxJs" width="26px" src="https://github.com/isaacnovaes/isaacnovaes/blob/main/rxjs.svg"/>
 - Linux <img align="center" alt="Linux" width="26px" src="https://github.com/isaacnovaes/isaacnovaes/blob/main/linux-icon.svg"/>
 
+Codewars: https://www.codewars.com/users/isaacnovaes  <img align="center" alt="Code wars level" src="https://www.codewars.com/users/isaacnovaes/badges/micro"/> 
+
 Linkedin: https://www.linkedin.com/in/isaacnovaes/
 
 Portfolio: https://isaac-novaes-portfolio.netlify.app/
